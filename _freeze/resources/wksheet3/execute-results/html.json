@@ -1,0 +1,17 @@
+{
+  "hash": "a729b75406e10ce9f091d3640ae8e0ac",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"W3: Adverse Selection\"\n---\n\n\nAssume that the insurer's cost function is given by $C=100q - 2q^{2}$, where $q$ denotes the number of people enrolled in the plan. Further assume that the inverse demand function takes the form, $D=110 - 3q$, and that there are 20 individuals total in this market.\n\n\n\n\n\n\n## Question 1:\n**If the insurer enters the market at a price of \\$65, what is the insurer's profit (or loss)?**\n\n\nwe need to first calculate the marginal cost curve, $mc=100-4q$, and the average cost curve, $ac=100-2q$. At a price of $p=65$, we know that quantity demanded will be $q=$ 15. We can then calculate profit as just total revenue less total cost, $\\pi = TR - TC =$ 975 - 1050 = -75.\n\n## Question 2:\n**What price does the insurer set next year if they set price equal to average cost in the prior year?**\n\n\nAverage cost at $p=65$ is 70. So this is next period's price.\n\n## Question 3:\n**What is the equilibrium price in this market?**\n\n\nThe equlibrium price is such that insurers earn zero profits (under our assumptions). We can find that price by finding the quantity such that $AC=p$. This occurs at $110 - 3q = 100 - 2q$, or $q=10$. The price at this quantity is 80. Note that the zero profit condition isn't necessary to find an equilibrium in this way. We could easily incorporate some minimum \"profit\" per person by increasing the per unit costs in the cost function.\n\n\n## Question 4:\n**What if there is a \\$10 penalty imposed for those that do not purchase health insurance?**\n\n\nThe penalty will effectively shift the demand curve out, as each individual is now willing to spend \\$10 more on health insurance. The new demand curve is then $120 - 3q$. Setting this equal to the average cost curve yields $q=20$. So a \\$10 penalty facilitates full insurance in this market.\n\n\n\n",
+    "supporting": [
+      "wksheet3_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

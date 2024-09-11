@@ -1,0 +1,16 @@
+---
+title: "Class 2: Basics of Health Insurance Contracts"
+---
+
+## Objectives
+- Define and explain key health insurance terms like networks, deductibles, copays, and coinsurance
+- Describe the differences between MCOs and PPOs
+
+## Activities 
+- Class discussion of insurance terminology
+- Select a health insurance plan from Emory's plan options
+- Complete the [Math Review](/resources/review1.html) and [Practice Problems](/resources/review2.html)
+
+## Other Resources
+- [Health insurance primer](https://www.youtube.com/watch?v=jdP0bBU0rV8). Video from the Kahn Academy.
+- [Private Health Insurance: A Primer](https://crsreports.congress.gov/product/pdf/R/R47507) from the Congressional Research Office

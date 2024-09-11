@@ -1,0 +1,10 @@
+---
+title: "Class 13: Physician Training and Location"
+---
+
+## Objectives
+- Explain the role of physician training and peer effects in geographic variation
+- List and describe some of the key sources of variation in physician practice patterns
+ 
+## Activities
+- In-class review of empirical questions for homework 2

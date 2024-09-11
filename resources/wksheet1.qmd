@@ -1,0 +1,49 @@
+---
+title: "W1: Expected Value"
+---
+
+An individual starts with a wealth of \$100,000. With probability 0.3, they will get sick and incur a cost of \$40,000. 
+
+## Question 1:
+**What is this person's expected cost of illness?**
+
+
+The expected cost is the probability of being ill (0.3) times the cost of being ill (40,000)
+
+```{r}
+#| echo: FALSE
+
+c1 = format(0.3*40000,digits=5,big.mark=",")
+c2 = format(100000^(0.2),digits=5,big.mark=",")
+c3 = format(60000^(0.2),digits=5,big.mark=",")
+c4 = format(100000^(0.2),digits=5,big.mark=",")
+c5 = format(60000^(0.2),digits=5,big.mark=",")
+c6 = format(.7*(100000^(0.2)) + 0.3*(60000^(0.2)),digits=5,big.mark=",")
+c7 = format(88000^(0.2),digits=5,big.mark=",")
+```
+
+
+$E[cost]=0.3 \times 40,000 =$ `r c1`.
+
+
+## Question 2:
+**Assume this individual has a utility function of the form, $u(w) = w^{0.20}$. What is this person's expected utility?**
+
+Expected utility works the same as any expectation...the "tricky" part is that we're using the utility *function* to the find the values over which we form the expectation. In this case, we have two possible outcomes: a) healthy, which gives us a wealth of \$100,000; or b) sick, in which case we incur the cost of illness and end up with \$60,000. So to find the expected utility, we need to find the utility associated with each possible wealth value, and then we need to take the expectation over those utility values:
+
+Step 1: Find utility values:
+
+- If healthy: $u(w)|_{w=100,000} = 100,000^{0.2}=$ `r c2`
+- If sick: $u(w)|_{w=60,000} = 60,000^{0.2}=$ `r c3`
+
+
+Step 2: Take the expectation
+Taking the expectation over these utility values yields: $E[u]=0.7 \times$ `r c4` $+0.3 \times$ `r c5` $=$ `r c6`.
+
+
+## Question 3:
+**Calculate this person's utility if they were to incur the expected cost of illness. Is this utility higher or lower than what you found in part (2)?**
+
+
+The expected cost of illness is 12,000, so the expected wealth is 88,000. We just need to calculate the utility at this expected monetary value, $u=(88,000)^{0.2}=$ `r c7`. As should be the case, this is higher than the expected utility from part (2) because this envisions a risk-less scenario whereas the expected utility in part (2) envisioned a risky scenario.
+

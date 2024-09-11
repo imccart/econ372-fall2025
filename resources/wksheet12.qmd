@@ -1,0 +1,23 @@
+---
+title: "W12: Pharma Pricing"
+---
+
+Consider a pharmaceutical firm setting its price for a brand name drug (i.e., patent protected) with no relevant substitutes. The inverse demand function for this drug is given by $P = 100 - 3q$, with cost function $c(q) = 2q$.
+
+
+## Question 1
+**Find the profix maximizing price without insurance.**
+
+To find the profit maximizing price, we need to first find the profit maximizing quantity by forming the profit function, differentiating with respect to $q$, and setting equal to 0. The profit function is given by: $\pi = (100-3q)\times q - 2\times q$. Differentiating with respect to $q$ yields: $\frac{d\pi}{dq} = 100 - 6q - 2 = 0$. Solving for $q$ yields $q = 16.3$. Plugging this into the inverse demand function yields $P = 100 - 3\times 16.3 = 51$. Thus, the profit maximizing price is $P = 51$.
+
+
+## Question 2
+**Introduce insurance by way of a coinsurance rate, $\alpha$=0.5.**
+
+The coinsurance rate is the fraction of the price that the consumer pays. Thus, the consumer pays $\alpha \times P$ and the insurance company pays $(1-\alpha)\times P$. The inverse demand function is therefore scaled up, such that $P = \frac{100-3q}{\alpha}$. The profit function is therefore given by: $\pi = \frac{100-3q}{\alpha}\times q - 2\times q$. Differentiating with respect to $q$ yields: $\frac{d\pi}{dq} = \frac{100- 6q}{\alpha} - 2 = 0$. Setting $\alpha=0.5$ and solving for $q$ yields $q = 16.5$. Plugging this into the inverse demand function yields $P = \frac{100 - 3\times 16.5}{0.5} = 101$. Thus, the profit maximizing price is $P = 101$.
+
+
+## Question 3
+**Briefly explain the role of coinsurance on pharmaceutical pricing and demand**
+
+Coinsurance reduces the price sensitivity of consumers. This is because the consumer only pays a fraction of the price, and thus is less sensitive to the price. This allows the firm to increase the price. However, consumers remain responsible for some portion of price increases, unlike the case of copayments where consumers are shielded from price increases beyond the copayment amount. Not surprisingly, we see insurers opting for coinsurance over copayments when covering high cost brand name drugs.

@@ -1,0 +1,25 @@
+---
+title: "Class 4: Public Health Insurance"
+---
+
+## Objectives
+- Explain Medicare, Medicare Advantage, Medicaid, and Medicaid Managed Care
+- Describe risk adjustment
+
+## Activities 
+- Class discussion of public insurance programs in the U.S.
+- Select a Medicare Advantage plan
+- Discussion on Canvas this week
+
+## Other Resources
+- [All About Medicare, Podcast](https://open.spotify.com/episode/11QshS7vlTptfBVkV8WkTG?si=sCnpjaDNT5mF3lDC6obB4g)
+- [All Aboud Medicaid, Podcast](https://open.spotify.com/episode/5wV95SFHGv9trpZrXACELP?si=DFnzeWj7R1eIv9w2Xr3PtQ)
+- [Healthcare Triage, Pay for Performance](https://www.youtube.com/watch?v=SFNuztrgQY0)
+- [NEJM Report, What is Pay for Performance](https://catalyst.nejm.org/doi/full/10.1056/CAT.18.0245)
+- Kaiser Family Foundation, February 2017, ["High-Risk Pools for Uninsurable Individuals"](https://www.kff.org/health-reform/issue-brief/high-risk-pools-for-uninsurable-individuals/)
+- Health Affairs article related to adverse selection, August 2020, ["Costs are Higher for Marketplace Members who Enroll during Special Enrollment Periods Compared with Open Enrollment"](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2019.01155)
+- ESPN, January 2019, ["A New Threat: An Evaporating Insurance Market"](https://www.espn.com/espn/story/_/id/25776964/insurance-market-football-evaporating-causing-major-threat-nfl-pop-warner-colleges-espn)
+- NPR, December 2018, ["Short-Term Health Plans Boost Profits for Brokers and Insurers."](https://www.npr.org/sections/health-shots/2018/12/21/678605152/short-term-health-plans-boost-profits-for-brokers-and-insurers)
+- Commonwealth Fund, July 2018, ["The Effect of Eliminating the Individual Mandate Penalty."](https://www.commonwealthfund.org/publications/fund-reports/2018/jul/eliminating-individual-mandate-penalty-behavioral-factors)
+
+

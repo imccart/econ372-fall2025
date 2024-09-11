@@ -1,0 +1,11 @@
+---
+title: "Class 12: Physician Learning"
+---
+
+## Objectives
+- Explain Bayesian learning in the context of physician treatment decisions
+- Solve for a physician's updated beliefs about treatment effectiveness
+- Explain the role of prior beliefs in Bayesian learning
+ 
+## Activities
+- In-class problem on physician learninng. The worksheet is [here](/resources/wksheet7.html).

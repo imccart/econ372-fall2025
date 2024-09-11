@@ -1,0 +1,14 @@
+---
+title: "Class 6: Risk Premium and WTP"
+---
+
+## Objectives
+
+- Calculate risk premium and willingness-to-pay for health insurance
+- Explain and draw graphically how the risk premium varies with the curvature of the utility function, probability of illness, and amount of potential loss
+- Discuss viability of high-risk pools
+ 
+## Activities
+
+- Discussion of Humana and importance of risk pools
+- In-class problem on the demand for health insurance. The worksheet is [here](/resources/wksheet2.html).

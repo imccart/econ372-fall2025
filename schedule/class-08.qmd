@@ -1,0 +1,13 @@
+---
+title: "Class 8: Health Insurance Competition"
+---
+
+## Objectives
+- Define community ratings and discuss its costs and benefits for insurance markets
+- Define risk-adjustment and its relevance to insurance markets
+
+## Activities
+- Discuss @mcwilliams2012. Link to paper [here](https://www.healthaffairs.org/doi/abs/10.1377/hlthaff.2011.1344)
+- [Homework 1](/assignments/homework1.html) due this Friday!
+
+## References

@@ -1,0 +1,23 @@
+---
+title: "Class 1: Motivation"
+---
+
+## Objectives
+- Recall the total annual expenditures on health and health care in the U.S.
+- Compare U.S. health expenditures and quality to that of other countries
+- Explain the debate surrounding the role of prices in U.S. health care expenditures
+- Summarize some of the unique economic features of the U.S. health care market
+
+## Activities 
+- Class discussion
+- Review the [syllabus](/syllabus.html), [schedule](/schedule.html), and [assignments](/assignments.html) pages for this class...just to get a feel for the site and how to navigate all of the information.
+- Complete the [Math Review](/resources/review1.html) and [Practice Problems](/resources/review2.html)
+
+## Other Resources
+- [@arrow1963]. Link to paper [here](https://www.jstor.org/stable/1812044).
+- Data from [Gapminder](https://www.gapminder.org/)
+- Healthcare triage videos: [The Healthcare System of the United States](https://www.youtube.com/watch?v=yN-MkRcOJjY) and [Why Does the US Spend So Much On Healthcare?](https://www.youtube.com/watch?v=tFtAohYPSFc)
+- Time, 2013. [Bitter Pill: Why Medical Bills are Killing Us](https://time.com/198/bitter-pill-why-medical-bills-are-killing-us/)
+- Forbes, 2018. [Healthcare: It's the prices, stupid. Isn't it?](https://www.forbes.com/sites/elliekincaid/2018/03/13/healthcare-its-the-prices-stupid-isnt-it/#52a5fda3198a)
+- Blog, Random Critical Analysis, November 2018. ["Why everything you have said about the determinants of health expenditure is wrong in one million charts: A response to Noah Smith."](https://randomcriticalanalysis.com/2018/11/19/why-everything-you-know-about-healthcare-is-wrong-in-one-million-charts-a-response-to-noah-smith/)
+- New report on U.S. health care: [U.S. Health Care from a Global Perspective](https://www.commonwealthfund.org/publications/issue-briefs/2023/jan/us-health-care-global-perspective-2022)

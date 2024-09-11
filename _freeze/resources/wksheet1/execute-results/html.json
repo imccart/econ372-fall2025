@@ -1,0 +1,17 @@
+{
+  "hash": "fbb332713315c8febfefb69567e4137c",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"W1: Expected Value\"\n---\n\n\nAn individual starts with a wealth of \\$100,000. With probability 0.3, they will get sick and incur a cost of \\$40,000. \n\n## Question 1:\n**What is this person's expected cost of illness?**\n\n\nThe expected cost is the probability of being ill (0.3) times the cost of being ill (40,000)\n\n\n::: {.cell}\n\n:::\n\n\n\n$E[cost]=0.3 \\times 40,000 =$ 12,000.\n\n\n## Question 2:\n**Assume this individual has a utility function of the form, $u(w) = w^{0.20}$. What is this person's expected utility?**\n\nExpected utility works the same as any expectation...the \"tricky\" part is that we're using the utility *function* to the find the values over which we form the expectation. In this case, we have two possible outcomes: a) healthy, which gives us a wealth of \\$100,000; or b) sick, in which case we incur the cost of illness and end up with \\$60,000. So to find the expected utility, we need to find the utility associated with each possible wealth value, and then we need to take the expectation over those utility values:\n\nStep 1: Find utility values:\n\n- If healthy: $u(w)|_{w=100,000} = 100,000^{0.2}=$ 10\n- If sick: $u(w)|_{w=60,000} = 60,000^{0.2}=$ 9.0288\n\n\nStep 2: Take the expectation\nTaking the expectation over these utility values yields: $E[u]=0.7 \\times$ 10 $+0.3 \\times$ 9.0288 $=$ 9.7086.\n\n\n## Question 3:\n**Calculate this person's utility if they were to incur the expected cost of illness. Is this utility higher or lower than what you found in part (2)?**\n\n\nThe expected cost of illness is 12,000, so the expected wealth is 88,000. We just need to calculate the utility at this expected monetary value, $u=(88,000)^{0.2}=$ 9.7476. As should be the case, this is higher than the expected utility from part (2) because this envisions a risk-less scenario whereas the expected utility in part (2) envisioned a risky scenario.\n\n",
+    "supporting": [
+      "wksheet1_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

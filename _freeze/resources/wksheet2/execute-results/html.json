@@ -1,0 +1,17 @@
+{
+  "hash": "d748d3cb6459897f656084ef21e0adc3",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"W2: Insurance Demand\"\n---\n\n\nAssume that utility takes the log form, $u(x)=ln(x)$. If someone is healthy, they maintain their current wealth of \\$100, and if they become ill, they must incur a cost of \\$50. Answer the following questions based on this setup.\n\n## Question 1:\n**Calculate the risk premium and willingness to pay based on a probability of illness of 0.1.**\n\n\n\n\n\n\nTo find the risk premium, we first need to calculate the expected utility: $E[u]=0.1*\\ln(50) + 0.9*\\ln(100)=$ 4.536. Next, we need to find the monetary value that provides this same level of utility. So we need $y$ such that $u(y)=$ 4.536. Since our utility function is $\\ln(x)$, we know that $y =$ exp(4.536) $=$ 93.3. The risk premium is then the difference between this value and our starting wealth (less the expected cost of care), $\\pi =$ 100 - 93.3 - 5 $=$ 1.697.\n\n\n## Question 2:\n**Repeat part (1) using a probability of illness of 0.2.**\n\n\n\n\n\n\nRepeating that same process yields an expected utility of 4.467. The monetary value that provides this level of utility with certainty is $y =$ exp(4.467) $=$ 87.06. The risk premium is then the difference between this value and our starting wealth (less the expected cost of care), $\\pi =$ 100 - 87.06 - 10 $=$ 2.945.\n\n\n## Question 3:\n**Repeat part (1) using a probability of illness of 0.5.**\n\n\n\n\n\n\nRepeating that same process yields an expected utility of 4.259. The monetary value that provides this level of utility with certainty is $y =$ exp(4.259) $=$ 70.71. The risk premium is then the difference between this value and our starting wealth (less the expected cost of care), $\\pi =$ 100 - 70.71 - 25 $=$ 4.289.\n\n\n## Question 4:\n**Explain how these values differ and why. What might this say about the profitability of insurance in a market with many sick people?**\n\n\nWe see from these examples that the risk premium is increasing as the amount of uncertainty increases. If people are more certain about being ill, then the risk premium is lower. This means that people are unwilling to pay much more than the expected cost of care, leaving less potential profit for insurers.\n\n",
+    "supporting": [
+      "wksheet2_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,93 @@
+---
+title: "Schedule"
+toc: false
+format:
+  html:
+    page-layout: full
+---
+
+Below is a breakdown of topics for each class day this semester. Assignments are also listed according to their due dates. The associated links take you to additional information relevant for that day or for that assignment. The **Details** link provides specific objectives, activities, and supplemental materials for that day; the **Main Reading** link takes you to the relevant chapter from our class textbook; the **Slides** link takes you to the relevant slides for that day; and the **Assignment** link takes you to the relevant details for each assignment. Note that the main readings are all from the book I'm currently writing. The benefit of this is that the content closely matches the class slides, but the downside is that the book is not yet complete. I will be adding and revising chapters as the semester progresses.
+
+## Module 0: Welcome to the Class!
+
+| Class | Dates      | Topic                                       | Details | Main Reading | Slides | Assignment  |
+|:-----:|------------|---------------------------------------------|:-------:|:------------:|:------:|:-----------:|
+|  1    | 8/28       | Motivation                                  | [{{< fa magnifying-glass  >}}](/schedule/class-01.html)  | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/00-intro/intro.html)  |  |
+: {tbl-colwidths="\[10,15,35,10,10,10,10\]"}
+
+
+## Module 1: Health Insurance
+
+| Class | Dates      | Topic                                       | Details | Main Reading | Slides | Assignment |
+|:-----:|------------|---------------------------------------------|:-------:|:------------:|:------:|:----------:|
+|  2    | 9/4       | Basics of Health Insurance Contracts        | [{{< fa magnifying-glass >}}](/schedule/class-02.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-1-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-01.html) | | 
+|  3    | 9/9       | Private Health Insurance                    | [{{< fa magnifying-glass >}}](/schedule/class-03.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-1-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-02.html) | | 
+|  4    | 9/11        | Public Health Insurance                     | [{{< fa magnifying-glass >}}](/schedule/class-04.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-1-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-03.html) | | 
+|  5    | 9/16       | Understanding Risk                      | [{{< fa magnifying-glass >}}](/schedule/class-05.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-2-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-04.html) | | 
+|  6    | 9/18       |  Risk Premium and WTP                      | [{{< fa magnifying-glass >}}](/schedule/class-06.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-2-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-05.html) | | 
+|  | 9/20 | **Project: Stage 1**                     | | | | [{{< fa pen  >}}](/assignments/project.html) |
+|  7    | 9/23       | Adverse Selection and Pricing           | [{{< fa magnifying-glass >}}](/schedule/class-07.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-3-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-06.html) | | 
+|  8    | 9/25       | Health Insurance Competition            | [{{< fa magnifying-glass >}}](/schedule/class-08.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-3-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-07.html) | | 
+|    | 9/27       | **Homework 1**                              | | | | [{{< fa pen  >}}](/assignments/homework1.html) |
+: {tbl-colwidths="\[10,15,35,10,10,10,10\]"}
+
+
+## Module 2: Physician Agency and Treatment Decisions
+
+| Class | Dates       | Topic                                       | Details | Main Reading | Slides | Assignment |
+|:-----:|-------------|---------------------------------------------|:-------:|:------------:|:------:|:----------:|
+|  9    | 9/30        | Physicians as Gatekeepers          | [{{< fa magnifying-glass >}}](/schedule/class-09.html)   | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part2/physicians-1-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/02-physicians/physicians-01.html) | | 
+|  10   | 10/2        | Physician Agency and Financial Incentives                        | [{{< fa magnifying-glass >}}](/schedule/class-10.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part2/physicians-2-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/02-physicians/physicians-02.html) | | 
+|  | 10/4        | **Project: Stage 2**                        | | | | [{{< fa pen  >}}](/assignments/project.html) |
+|  11   | 10/7        | Physician Agency and Payment Models  | [{{< fa magnifying-glass >}}](/schedule/class-11.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part2/physicians-2-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/02-physicians/physicians-03.html) | | 
+|  12   | 10/9       | Physician Learning                 | [{{< fa magnifying-glass >}}](/schedule/class-12.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part2/physicians-3-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/02-physicians/physicians-04.html) | | 
+|  13   | 10/16      | Physician Training and Location | [{{< fa magnifying-glass >}}](/schedule/class-13.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part2/physicians-3-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/02-physicians/physicians-05.html) | |
+|   | 10/18       | **Homework 2**                               | | | | [{{< fa pen  >}}](/assignments/homework2.html) |
+: {tbl-colwidths="\[10,15,35,10,10,10,10\]"}
+
+
+## Exam Week
+
+| Class | Dates       | Topic                                       | Details | Main Reading | Slides | Assignment |
+|:-----:|-------------|---------------------------------------------|:-------:|:------------:|:------:|:----------:|
+|  14   | 10/21       | Exam Review                                 | | | | [{{< fa pen  >}}](/resources/exam-review1.html) |
+|  15   | 10/23       | **Mid-term Exam**                           | | | | [{{< fa pen  >}}](/assignments/exam1.html) |
+: {tbl-colwidths="\[10,15,35,10,10,10,10\]"}
+
+
+## Module 3: Hospital Pricing
+
+| Class | Dates       | Topic                                       | Details | Main Reading | Slides | Assignment |
+|:-----:|-------------|---------------------------------------------|:-------:|:------------:|:------:|:----------:|
+| 16    | 10/28       | Hospitals and Pricing                       | [{{< fa magnifying-glass >}}](/schedule/class-16.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part3/hospitals-1-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/03-hospitals/hospitals-01.html) | |
+| 17    | 10/30       | Hospital Objective Functions                | [{{< fa magnifying-glass >}}](/schedule/class-17.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part3/hospitals-1-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/03-hospitals/hospitals-02.html) | |
+| 18    | 11/4       | Single-price Market                         | [{{< fa magnifying-glass >}}](/schedule/class-18.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part3/hospitals-2-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/03-hospitals/hospitals-03.html) | |
+| 19    | 11/6        | Two-price Market                            | [{{< fa magnifying-glass >}}](/schedule/class-19.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part3/hospitals-2-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/03-hospitals/hospitals-04.html) | |
+|       | 11/8        | **Project: Stage 3**                        | | | | [{{< fa pen  >}}](/assignments/project.html) |
+| 20    | 11/11        | Bargaining and Prices                       | [{{< fa magnifying-glass >}}](/schedule/class-20.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part3/hospitals-3-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/03-hospitals/hospitals-05.html) | |
+| 21    | 11/13        | Hospital Mergers                            | [{{< fa magnifying-glass >}}](/schedule/class-21.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part3/hospitals-3-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/03-hospitals/hospitals-06.html) | |
+: {tbl-colwidths="\[10,15,35,10,10,10,10\]"}
+
+
+## Module 4: Prescription Drugs
+
+| Class| Dates          | Topic                | Details | Main Reading | Slides | Assignment |
+|:---------:|-----------|-----------|:---------:|:---------:|:---------:|:---------:|
+|  22    | 11/18  | Basics of Prescription Drugs        | [{{< fa magnifying-glass >}}](/schedule/class-22.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part4/pharma-1-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/04-pharma/pharma-01.html) | |
+|  23    | 11/20  | Brand Name Drugs                | [{{< fa magnifying-glass >}}](/schedule/class-23.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part4/pharma-1-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/04-pharma/pharma-02.html) | |
+|       | 11/22       | **Homework 3**                              | | | | [{{< fa pen  >}}](/assignments/homework3.html) |
+|  24    | 11/25  | Generic Drugs                   | [{{< fa magnifying-glass >}}](/schedule/class-24.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part4/pharma-1-3.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/04-pharma/pharma-03.html) | |
+|  25    | 12/2  | Regulation and Innovation       | [{{< fa magnifying-glass >}}](/schedule/class-25.html) | [{{< fa book >}}](http://healthcare-markets.books.ianmccarthyecon.com/part4/pharma-1-4.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/04-pharma/pharma-04.html) | |
+: {tbl-colwidths="\[10,15,35,10,10,10,10\]"}
+
+
+## Final Projects
+
+| Class| Dates          | Topic                | Details | Main Reading | Slides | Assignment |
+|:---------:|-----------|-----------|:---------:|:---------:|:---------:|:---------:|
+|  26-27 | 12/4, 12/9   | **Project: Stages 4-5**     | | | | [{{< fa pen  >}}](/assignments/project.html) |
+: {tbl-colwidths="\[10,15,35,10,10,10,10\]"}
+
+
+
+

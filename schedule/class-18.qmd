@@ -1,0 +1,13 @@
+---
+title: "Class 18: Single-price Market"
+---
+
+
+## Objectives
+- Explain and solve for profit maximizing price for monopolistically competitive firm
+- Explain and solve for profit maximizing quantity for price-taking firm
+
+
+## Activities
+- Solve for the profit maximizing price and quantity for a monopolistically competitive firm. Worksheet available [here](/resources/wksheet9.html).
+

@@ -1,0 +1,13 @@
+---
+title: "Class 7: Adverse Selection and Pricing"
+---
+
+## Objectives
+- Explain and draw graphically a simplified insurance market with adverse selection
+- Calculate the insurer loss or profit at a given price
+- Calculate the equilibrium price in the market under some assumptions on insurer profitability
+- Solve for the subsidy amount or penalty amount that would ensure full insurance in a market
+ 
+## Activities
+- In-class problem on adverse selection. The worksheet is [here](/resources/wksheet3.html).
+- New report on U.S. health care: [U.S. Health Care from a Global Perspective](https://www.commonwealthfund.org/publications/issue-briefs/2023/jan/us-health-care-global-perspective-2022)

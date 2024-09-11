@@ -1,0 +1,13 @@
+---
+title: "Class 11: Physician Agency and Payment Models"
+---
+
+## Objectives
+- Define a capitated payment and describe at least one type of capitated payment currently in the U.S.
+- Solve for treatment levels with capitated payments
+- Explain at least one recent hospital pay for performance program
+- Explain the difference between FFS and capitated payment models
+
+## Activities
+- In-class problem on physician agency with capitated payments. The worksheet is [here](/resources/wksheet6.html).
+- Discuss [@clemens2014]. Link to paper [here](https://www.aeaweb.org/articles?id=10.1257/aer.104.4.1320).

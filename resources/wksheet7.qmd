@@ -1,0 +1,32 @@
+---
+title: "W7: Physician Learning"
+---
+
+Two physicians are considering adopting a new medical technology and are trying to determine its effectiveness, denoted $\theta$. Both physicians are aware of a new clinical trial in which 70 out of 100 patients showed clinical improvement in their symptoms following treatment. The other 30 patients showed no meaningful improvement. 
+
+Physician 1 has no strong opinion for or against the new treatment and maintains a uniform prior, $P(\theta) \sim Beta(\alpha_{0}=1, \beta_{0}=1)$. Physician 2 is highly skeptical of the new treatment and favors their current practice style, with a prior belief reflected by $P(\theta) \sim Beta(\alpha_{0}=0.01, \beta_{0}=100)$.
+
+## Question 1
+**Find Physician 1's updated belief as to the mean effectiveness of the new treatment**
+
+The posterior distribution is given by Bayes' rule. Denoting Physician 1's initial beliefs by $\alpha_{0}$ and $\beta_{0}$, the posterior simplifies as follows:
+
+$$\begin{align}
+P(\theta | y) &= \frac{P(y| \theta) P(\theta)}{P(y)} \\
+ & \propto \frac{ {100 \choose 70} \theta^{70} (1 - \theta)^{100 - 70} \theta^{\alpha_{0}-1} (1 - \theta)^{\beta_{0}-1} } { B(\alpha_{0}, \beta_{0}) } \\
+ & \propto \frac{ {100 \choose 70} \theta^{\alpha_{0}+70-1} (1 - \theta)^{\beta_{0}+100-70-1} } { B(\alpha_{0}, \beta_{0}) } \\
+ & \propto Beta(\alpha_{0}+70, \beta_{0} + 100 - 70)
+\end{align}$$
+
+This is a Beta distribution with shape parameters, $\alpha_{1}=\alpha_{0} + 70$ and $\beta_{1}=\beta_{0}+100-70$. We know from class that the mean of the Beta distribution is given by $\frac{\alpha}{\alpha + \beta}$. So the physician's (mean) updated belief on the effectiveness of this new treatment is $\frac{71}{102}$ or 70%.
+
+## Question 2
+**Find Physician 2's updated belief as to the mean effectiveness of the new treatment**
+
+First note that Physician 2's initial beliefs amount to a very strong negative prior, with mean effectiveness of $\frac{0.01}{100.01}=$ 0%. As in Part 1, the updated probability of effectiveness will again follow a Beta distribution with shape parameters, $\alpha_{1}=\alpha_{0} + 70$ and $\beta_{1}=\beta_{0}+100-70$. But in this case, $\alpha_{0}=0.01$ and $\beta_{0}=100$, and the physician's (mean) updated belief on the effectiveness of this new treatment is $\frac{70.01}{200.01}$ or 35%.
+
+
+## Question 3
+**Based on these beliefs, which physician will more quickly adopt the new treatment?**
+
+Physician 2's strong negative prior significantly impacts their future decision-making process, such that they place much lower probability on the effectiveness of treatment despite observing the same trial data as physician 1. So physician 1 will be more likely to adopt this treatment going forward. This scenario underscores how physician beliefs can influence the trajectory of technology adoption and contribute to differential treatment patterns across and even within markets.

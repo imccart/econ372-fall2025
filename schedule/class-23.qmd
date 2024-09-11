@@ -1,0 +1,12 @@
+---
+title: "Class 23: Brand Name Drugs"
+---
+
+## Objectives
+- Discuss and explain basic trends in pharmaceutical spending and pricing
+- Explain the difference between brand name and generic drugs
+- Derive pricing formulas with and without insurance for brand name drugs with few substitutes
+
+## Activities
+- Finish Homework 3!
+- Pricing formula discussion/derivation together (as a class, no in-class worksheets today)

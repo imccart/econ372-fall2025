@@ -1,0 +1,16 @@
+---
+title: "W8: NFP Hospitals"
+---
+
+Consider a NFP hospital with utility function $u(q,z),$ where $q$ denotes quantity and $z$ denotes quality of care. Using only a graphical approach, answer the following questions.
+
+## Question 1
+**The hospital's market expands insurance access so that more people can now purchase health care. What might this do to quantity and quality?**
+
+Insurance expansion will tend to shift demand curves out for every level of quality. This will shift the production possibilities curve out, allowing the hospital to produce more of both quality and quantity.
+
+
+## Question 2
+**There is a contraction of nursing supply in the hospital's market, such that the hospital must offer higher wages to its nurses to maintain staff. What might this do to quantity and quality?**
+
+Higher wages will increase the hospital's average cost of production, shifting the production possibilities curve in. This will tend to reduce both quantity and quality.

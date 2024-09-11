@@ -1,0 +1,14 @@
+---
+title: "Class 19: Two-price Market"
+---
+
+
+## Objectives
+- Use our two-price model to predict the effect of a change in public (e.g. Medicare or Medicaid) prices
+- Identify the minimum price at which public insurance patients lose access to care
+- Define cost-shifting and summarize the key aspects of the cost-shifting debate
+
+
+## Activities
+- Solve the practice problem on the two-price model. Worksheet available [here](/resources/wksheet10.html).
+

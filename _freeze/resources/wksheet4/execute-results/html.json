@@ -1,0 +1,17 @@
+{
+  "hash": "c29b701fc4bc820dc84369e21f5c1810",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"W4: Physician Agency\"\n---\n\n\nDenote the quantity of care consumed by $x$, and denote by $B(x)$ the function that determinesthe benefit of care to the patient. Assume that the patient must pay the full price of care, $px$,  so that their net benefit is $NB=B(x)−px$.  \n\n\n## Question 1:\n**Find the patient’s optimal $x$.**\n\n\nThe patient just wants to maximize their net benefit, $B(x) - px$. Taking the derivative and setting to 0, this means $B'(x) = p$ (i.e., marginal benefit to the patient is equal to the patient's marginal cost).\n\n\n## Question 2:\n**Draw the marginal benefit on a graph and note the price and patient's optimal quantity.**\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![Patient's optimal point of care](wksheet4_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\n\n## Question 3:\n**Find the physician's optimal $x$ assuming $NB^{0}=0$.**\n\n\nThe physician is profit maximizing, subject to the constraint that $NB^{0}=B(x) - px=0$. Plugging this constraint into the profit function yields, $\\pi = B(x) - NB^{0} - cx = B(x) - cx$. Taking the derivative and setting it to 0 yields the expression, $B'(x)=c$. So the physician also set's marginal benefit equal to marginal cost...they just focus on their own marginal cost instead of the marginal cost to the patient.\n\n\n## Question 4:\n**Add the physician's optimal $x$ to your graph and interpret the difference.**\n\n\n::: {.cell}\n::: {.cell-output-display}\n![Patient and physician's optimal point of care](wksheet4_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "wksheet4_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

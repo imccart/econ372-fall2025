@@ -1,0 +1,11 @@
+---
+title: "Class 10: Physician Agency and Financial Incentives"
+---
+
+## Objectives
+- Explain the principal-agent problem in the context of medical care
+- Solve for treatment levels when physicians set prices and quantity
+- Solve for treatment levels when physicians face a fixed price
+ 
+## Activities
+- In-class problem on physician agency. The worksheet is [here](/resources/wksheet4.html).
