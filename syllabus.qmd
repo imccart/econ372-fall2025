@@ -1,0 +1,163 @@
+---
+title: "Syllabus"
+#subtitle: "Fall 2024"
+page-layout: full
+format: html
+#format:
+#  pdf: default
+---
+  
+## Course description
+
+This course examines the industrial organization of health care markets in the U.S., including underlying theory, empirical findings, and related health care policy. We will focus specifically on insurance markets, informational asymmetries between physicians and patients, hospital pricing and competition, and prescription drug markets.
+
+**Prerequisites:** Economics 101 (Principles of Microeconomics). Some basic knowledge of calculus and derivatives is also required, but not necessarily the official Math 111 (Calculus I) course at Emory. 
+
+## Learning outcomes
+
+The broad goal of the class is to understand the structure of health care markets in the U.S. The course is designed around three areas, reflecting the different interactions an individual would have when navigating the health care system --- first choosing an insurance plan, then visiting a physician, and ultimately receiving healthcare. For each segment, we will examine underlying theoretical model(s), consider empirical evidence in the area, and discuss relevant health care policy. My specific goals are that, by the end of this course, you will be able to:
+
+1. Explain the structure of the U.S. health care system, its main components, and its history;
+
+2. Model adverse selection in health insurance, examine its effects on health insurance markets, and support your arguments with existing data;
+
+3. Explain the physician agency problem, use a model of physician agency to examine financial incentives in health care, and summarize empirical evidence on the presence of physician agency;
+
+4. Describe hospital pricing, negotiation with insurers, and explain (qualitatively and quantitatively) the differences between charges and prices;
+
+5. Summarize key elements of prescription drug markets, including the role of patents, generic drugs, and the FDA; and
+
+6. Analyze hospital data in a real-life setting and discuss the likely effects of real-life policies.
+
+## Course materials
+
+### Where to go
+If you're here, then you know where to find our class website. Well done! Hopefully it's clear by the existence of the site that this is where I plan to host most of our course materials such as notes/slides, assignments, practice problems, etc. I'll also use Canvas to distribute any papers or specific readings that aren't available publicly, as well as post information that I don't want public like virtual meeting passwords (if needed) and grades. 
+
+
+### Readings
+There are two optional textbooks for this class. One is an intermediate microeconomics textbook that will cover much of the basic economic theory, and another is a health economics textbook. These books are in now way required, but they may be helpful for some students as an additional resource.
+
+  - @pindyck2018
+  - @sloan2012
+  
+We will supplement these textbooks with other readings as well as online presentations, policy papers, and videos. I'm also writing a textbook specifically for this class (very much a work in progress at this point). A comprehensive list of materials and potential readings are available from the [schedule](/schedule/) page.
+  
+
+### Statistics software
+Each homework assignment will generally include both a theoretical and empirical section. Most of the empirical work involves basic summary statistics. This can be done in just about any spreadsheet or statistics package. I'll use `R` for my work, but you are free to use whatever software you're most comfortable with. I encourage you to use `R` or `Python` simply because these are the most common programs used in applied data analysis right now, but you can certainly use Excel or Google Sheets if you'd prefer. This is **not** a statistics or econometrics class, so I do not expect you to have any statistics programming knowledge. A few instructional videos are also available on **Canvas** to help with specific programming issues or Excel steps.
+
+### Accessing data
+For all homework assignments, I will house all of the links to the data on our class website, and I'll place the relevant datasets in a shared OneDrive folder as needed. For transparency, I will also point you to other GitHub repositories where available. If you're new to Git or GitHub and want to understand some of that better, take a look at [Grant McDermott's](https://grantmcdermott.com/) notes on [Data Science for Economists](https://github.com/uo-ec607/lectures) as well as [Jenny Bryan's](https://jennybryan.org/) online reference book, [Happy Git and GitHub with R](https://happygitwithr.com/). But please note, knowledge of Git or GitHub is not expected or required for this class.
+
+
+
+## Course policies
+
+**Be nice. Be honest. Don't cheat.**
+
+Various policies for this course are described below. Basically, let's all work to be good citizens and take seriously our various roles as a student, teacher, friend, colleague, human, etc.
+
+### Class meetings
+
+All regular class meetings will take place in **White Hall, Room 110** on Mondays and Wednesdays from 8:30am (what!? I know right) to 9:45am. 
+
+
+### Office hours
+
+My designated office hours will be on Monday and Wednesday from 10:00am to 11:00am in the R. Randall Rollins Building, room 418. This is the 4th floor of the new Rollins School building. My office hours are in-person, as I want to encourage everyone to come visit face-to-face if at all possible. I'm also available outside of the 10-11am times, but those times are less predictable. In general, even if you're planning to visit during normal office hours, please schedule an appointment [here](https://mccarthy-meetings.youcanbook.me/). This just ensures that everyone has the proper time for a meeting.
+
+If you need to meet virtually, I've posted a virtual meeting link on our Canvas page. Please indicate the virtual meeting when you schedule online so that I know where we're meeting!
+
+While we call these "office hours" they really should be "student hours". These are set times dedicated to all of you. This means that I will be in my office waiting for you to come by with whatever questions you have. Take a look at this video for a more interesting presentation of what office hours really are and why you should come!
+
+<iframe src="https://player.vimeo.com/video/270014784" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="display: block; margin: 0 auto 1rem;"></iframe>
+
+For any questions that you don't think need a meeting, you can always reach out to me through email. I do my best to respond within 24 hours to all emails.
+
+### Teaching Assistants
+
+We have an excellent economics PhD student as our teaching assistant this year. They will be available to help with any questions you have about the material, assignments, or anything else. They will also be grading your assignments. Please be nice. They are here to help you.
+
+  - **Shirley Cai**: Office hours Thursdays, 3-4pm. Email, shirley.cai@emory.edu. Shirley will hold all of her office hours virtually, and a link to her zoom meeting room is available on Canvas.
+
+### Turning things in
+
+All homework assignments should be submitted as PDF files on Canvas via GradeScope. Since we'll be using some math in all of our answers, I encourage everyone to complete your homework assignments in [Overleaf](https://www.overleaf.com/). As an Emory student, everyone has access to an institutional Overleaf account, which provides you with all the nice features of the product. You can use this to easily write PDF documents in a language known as "LaTeX". For a brief introductory video and links to more info, please see the video [here](https://www.overleaf.com/learn/latex/Questions/Getting_started_with_LaTeX_and_Overleaf_(formerly_writeLaTeX)). Overleaf is not a requirement, but I think it will save some you time in the long run. You are also welcome to use Word, Google Docs, LibreOffice, etc., and convert to PDF for your final submission.
+
+The only **requirements** are that your submission is a PDF and that your answers are legible and organized. Please **DO NOT** write tiny answers in margins of papers, scan as PDF, and submit. We will not grade these types of submissions, and the assignment will be considered late until a legible submission is available. When you submit through GradeScope, you should be prompted to highlight which part of your PDF corresponds to each question. Please do this carefully. Misaligned submissions will be treated as late until they are properly aligned.
+
+Your projects should be submited within Canvas as stand-alone PDF or Word documents. Once you've formed your groups, only one group member should need to submit the assignment, so please communicate with each other as to who will take that responsibility. All submissions for the project will employ plagiarism-detection software, including Turnitin. Turnitin compares submitted work to sources available on the internet, archived databases of essays, journals, books, and other publications, and its database of assignments submitted in the past at Emory and other universities. Work that generates concerns about originality or citation methods will be reviewed and submitted to the Honor Council as appropriate. This software does not substitute for the judgment of the instructor and other authorities in the detection of plagiarism, and other methods may be employed in this course to determine that all work abides by the standards set forth in the Honor Code. 
+
+All other participation assignments will be submitted through Canvas, with details available on the Canvas assignment.
+
+### Academic integrity
+
+The Emory University Honor Code is taken seriously and governs all work in this course. Details about the Honor Code are available [here](http://catalog.college.emory.edu/policies/honor-code.html). By taking this course, you affirm that it is a violation of the code to cheat on exams, to plagiarize, to deviate from the instructions about collaboration on work that is submitted for grades, to give false information to a faculty member, and to undertake any other form of academic misconduct. You agree that the teacher is entitled to move you to another seat during examinations, without explanation. You also affirm that if you witness others violating the code you have a duty to report them to the honor council.
+
+### AI and Assignments
+
+In this course, students are encouraged to leverage the capabilities of ChatGPT and related AI software for academic exploration and assistance. However, it is essential to uphold the principles of academic integrity. While you are free to seek guidance from ChatGPT, Gemini, etc., the final submissions of all assignments and assessments must reflect your individual understanding and expression. Any instance of verbatim or substantially unaltered content from ChatGPT or other external sources (including your own classmates) will be considered plagiarism and subject to our policies on academic integrity (see above). The goal is to foster critical thinking and creativity while utilizing the tool responsibly. If you have any questions about the appropriate use of ChatGPT or related software, please ask me.
+
+### Accessibility services
+
+If you anticipate issues related to the format or requirements of this course, please meet with me. I would like us to discuss ways to ensure your full participation in the course. If you determine that accommodations are necessary, you may register with Accessibility Services at (404)727-9877 or via e-mail at accessibility@emory.edu. To register with OAS, students must self identify and initiate contact with the OAS office.
+
+### Class-wide announcements
+
+I will post regular announcements to the class on **Canvas**, so please set up your notifications accordingly. I will also use Canvas to post all grades and any other information that needs to stay in the class. All other course materials will be available on our class website, [econ372f24.classes.ianmccarthyecon.com](https://econ372f24.classes.ianmccarthyecon.com).
+
+### Lauren's Promise
+
+**I will listen and believe you if someone is threatening you.**
+
+Lauren McCluskey, a 21-year-old honors student athlete, [was murdered on October 22, 2018 by a man she briefly dated on the University of Utah campus](https://www.sltrib.com/opinion/commentary/2019/02/10/commentary-failing-lauren/). We must all take action to ensure that this never happens again.
+
+If you are in immediate danger, call 911 or Emory police (404-727-6111).
+
+Any form of sexual harassment or violence will not be excused or tolerated at Emory. If you are experiencing sexual assault, domestic violence, or stalking, please report it to me or directly to [Emory's Office of Respect](http://respect.emory.edu/index.html) (470-270-5360).
+
+
+## Assignments and grades
+
+Detailed descriptions of all assignments are on the [assignments](/assignments/) page. Each assignment will contribute to your final grade as described below.
+
+```{r assignments-grades, include=FALSE}
+library(dplyr)
+library(tibble)
+assignments <- tibble(
+  Assignment = c("Participation", "Homework (60 x 3)", "Mid-term exam", "Final project"),  
+  Points = c(10, 60*3, 60, 150)
+)
+
+assignments <- assignments %>%
+  mutate(Percent = Points / sum(Points),
+         Percent = scales::percent(Percent))
+
+grading <- tibble(
+  Grade = c("A","A-","B+","B","B-","C+"),
+  Range = c("93-100%","90-92%","87-89%","83-86%","80-82%","77-79%"),
+  Grade1=c("C","C-","D+","D","D-","F"),
+  Range1=c("73-76%","70-72%","67-69%","63-66%","60-62%","< 60%")
+)
+```
+
+<center>
+
+```{r assignments-table, echo=FALSE, results="asis", warning=FALSE}
+library(pander)
+pandoc.table(assignments, justify="lcc")
+```
+
+</center>
+
+Your final percentage grade comes from your total points as a percent of all possible points available in the class (400). That percent then translates to a letter grade as follows:
+
+<center>
+
+```{r grades-table, echo=FALSE, results="asis", warning=FALSE}
+pandoc.table(grading, justify="lclc",
+             col.names = c("Grade", "Range", "Grade", "Range"))
+```
+
+</center>
