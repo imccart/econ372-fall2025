@@ -70,6 +70,7 @@ website:
         - resources/index.qmd
         - resources/review1.qmd
         - resources/review2.qmd
+        - resources/review3.qmd
         - resources/exam-review1.qmd
         - resources/wksheet1.qmd
         - resources/wksheet2.qmd
