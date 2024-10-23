@@ -9,7 +9,5 @@ title: "Class 16: Introduction to Hospital Pricing"
 - Understand variation in hospital pricing and investigate price variation with the Health Care Pricing Project materials
  
 ## Activities
-- Briefly review exam questions, if needed
-- Review upcoming stage 3 of your projects
 - Discussion of "what is a hospital's price"
-- Watch [video](https://truecostofhealthcare.org/hospitalization/) on hospital billing and what we mean by hospital "price".
+- Case study of [Parkview Health](https://www.theguardian.com/us-news/2024/oct/17/indiana-medical-debt-parkview-hospital) in Fort Wayne, IN

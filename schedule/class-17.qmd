@@ -4,9 +4,8 @@ title: "Class 17: Hospital Objective Functions"
 
 ## Objectives
 - Describe the differences between for-profit and not-for-profit hospitals
-- Link historical patterns of U.S. hospital care to current issues
-- Define and explain the differences between hospital prices, charges, and costs
-- Understand variation in hospital pricing and investigate price variation with the Health Care Pricing Project materials
+- Understand and explain current policy concerns surrounding not-for-profit hospitals
  
 ## Activities
 - In-class activity on not-for-profit hospital utility maximization. The worksheet is [here](/resources/wksheet8.html).
+- Discussion of NYTimes Article, [Why are nonprofit hospitals focused more on dollars than patients?](https://www.nytimes.com/2023/11/30/opinion/hospitals-nonprofit-community.html)
