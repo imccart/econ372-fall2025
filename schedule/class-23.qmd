@@ -8,5 +8,4 @@ title: "Class 23: Brand Name Drugs"
 - Derive pricing formulas with and without insurance for brand name drugs with few substitutes
 
 ## Activities
-- Finish Homework 3!
 - Pricing formula discussion/derivation together (as a class, no in-class worksheets today)

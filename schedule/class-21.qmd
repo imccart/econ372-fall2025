@@ -7,4 +7,4 @@ title: "Class 21: Hospital Mergers"
 - Understand the complexity and nuance in the definition of a "market"
 
 ## Activities
-- [NIHCM presentation](https://nihcm.org/publications/hospital-consolidation-trends-impacts-outlook)
+- [NIHCM presentation](https://nihcm.org/publications/hospital-consolidation-trends-impacts-outlook)docs

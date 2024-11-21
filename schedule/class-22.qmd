@@ -7,4 +7,4 @@ title: "Class 22: Basics of Prescription Drugs"
 - Understand the basic structure and trends in the pharmaceutical market
 
 ## Activities
-- Review details for Homework 3
+- Detailed look at [Pharmacy Benefit Managers](https://www.commonwealthfund.org/publications/explainer/2019/apr/pharmacy-benefit-managers-and-their-role-drug-spending)
