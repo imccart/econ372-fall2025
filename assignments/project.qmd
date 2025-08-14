@@ -24,9 +24,9 @@ In this class, a policy brief is a succinct 2 page document that
 
 To help stay on track throughout the semester, we've divided the brief into five stages. Please use the links (or just navigate below) for details of each stage. Please also check out the section on [Other Resources] for additional information, including examples of policy briefs and other guides.
 
-1. [Teams and Topics], due on **September 20** and worth **10 points** toward you final project grade
-2. [Annotated Bibliography], due on **October 4** and worth **10 points** toward your final project grade
-3. [Factsheet], due on **November 8** and worth **40 points** toward your final project grade
+1. [Teams and Topics], due on **September 19** and worth **10 points** toward you final project grade
+2. [Annotated Bibliography], due on **October 3** and worth **10 points** toward your final project grade
+3. [Factsheet], due on **November 7** and worth **40 points** toward your final project grade
 4. [Final Policy Brief], due on **December 4** and worth **80 points** toward your final project grade
 5. [Internal Peer Review], due on **December 9** and worth **10 points** toward your final project grade
 
@@ -137,4 +137,4 @@ The best way to become familiar and comfortable with the genre is by exploring i
 2. Resources at Emory
     - The Emory Writing Center has tons of resources and support. You can book an appointment for someone to evaluate your work. 
     - Emory libraries have resources on journals, starting research, and have classes for organizing your sources. Chris Palazzolo is our contact with the library and is available if you have questions.
-    - Of course, come talk to me or the TA!
+    - Of course, come talk to me or our TA!

@@ -15,11 +15,11 @@ Why am I asking you to work with such a seemingly large dataset (aside: it's not
 - See (with real data) potential budget implications of payment changes (Q5, Part 3)
 - Predict behaviors using the intuition from our physician agency models
 
-Homework 2 is due by **midnight on Friday, October 18**.
+Homework 2 is due by **midnight on Friday, October 10**.
 
 
 ## Theory Questions
-1. Assume a physician is operating with the standard profit function, $\pi = (p-c)x$, where $c$ reflects a constant marginal cost of production, $x$ denotes quantity of healthcare provided, and $p$ denotes the price per unit of healthcare provided. Assume also that patients receive some total benefit from care received, reflected by the equation $B(x)=10x - (1/2)x^{2}$. Patients must pay the full price, $p$, of any care received, so that the net benefit of care to the patient is then $B(x)-px$ (their total benefit less their costs). Finally, assume that the best outside option for the patient yields a net benefit of 8.
+1. Assume a physician is operating with the standard profit function, $\pi = (p-c)x$, where $c$ reflects a constant marginal cost of production, $x$ denotes quantity of healthcare provided, and $p$ denotes the price per unit of healthcare provided. Assume also that patients receive some total benefit from care received, reflected by the equation $B(x)=20x - (1/2)x^{2}$. Patients must pay the full price, $p$, of any care received, so that the net benefit of care to the patient is then $B(x)-px$ (their total benefit less their costs). Finally, assume that the best outside option for the patient yields a net benefit of 8.
 
     + If the patient were to choose $x$ to maximize their net benefit, what level of $x$ would they choose?
     
@@ -41,10 +41,10 @@ Homework 2 is due by **midnight on Friday, October 18**.
     + Which scenario (minimizing overtreatment or undertreatment) is better for the physician's profit.
 
 
-3. Two physicians, Physician 1 and Physician 2, are considering the adoption of a new medical treatment for a specific condition. Both physicians have access to the same observational data from a clinical trial in which 100 patients were treated with the new treatment, and 20 out of 100 patients showed improvement. The physicians, however, have different prior beliefs about the treatment's effectiveness.
+3. Two physicians, Physician 1 and Physician 2, are considering the adoption of a new medical treatment for a specific condition. Both physicians have access to the same observational data from a clinical trial in which 100 patients were treated with the new treatment, and 30 out of 100 patients showed improvement. The physicians, however, have different prior beliefs about the treatment's effectiveness.
 
    - Physician 1's Prior: $Beta(\alpha = 1, \beta = 1)$ distribution (Diffuse or Uniform prior).
-   - Physician 2's Prior: $Beta(\alpha = 1, \beta = 30)$ distribution (Strong negative prior).
+   - Physician 2's Prior: $Beta(\alpha = 1, \beta = 20)$ distribution (Strong negative prior).
 
      + Calculate the updated belief of Physician 1 regarding the effectiveness of the new treatment. Express this updated belief as the mean of the posterior distribution.
 

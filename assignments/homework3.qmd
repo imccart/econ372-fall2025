@@ -6,16 +6,16 @@ format: html
 ---
 
 ## Instructions
-This is our third and final homework assignment of the semester. It covers questions related to hospital pricing and competition. Homework 3 is due by **midnight on Friday, November 22**.
+This is our third and final homework assignment of the semester. It covers questions related to hospital pricing and competition. Homework 3 is due by **midnight on Friday, November 14**.
 
 ## Theory Questions
-1. Consider a for-profit practice facing the following demand and cost curves: $p=80-\frac{1}{2}q$ for private insurance patients and $c(q)=\frac{1}{4}q^{2}$.
+1. Consider a for-profit practice facing the following demand and cost curves: $p=75-\frac{1}{2}q$ for private insurance patients and $c(q)=\frac{1}{4}q^{2}$.
 
     + How many patients will this practice see and at what price?
     
-    + Now assume that there is also a public market (e.g., Medicaid) where the price is set to $\bar{p}=\$50$ for each patient. Calculate the total number of patients that will be seen by this practice. How many of these patients are private insurance patients and how many are Medicaid patients?
+    + Now assume that there is also a public market (e.g., Medicaid) where the price is set to $\bar{p}=\$40$ for each patient. Calculate the total number of patients that will be seen by this practice. How many of these patients are private insurance patients and how many are Medicaid patients?
     
-    + Medicaid is considering lowering their payments to $40 per visit. What is the new number of patients seen by this practice? How many of these patients are privately insured versus Medicaid?
+    + Medicaid is considering lowering their payments to $30 per visit. What is the new number of patients seen by this practice? How many of these patients are privately insured versus Medicaid?
     
     + Find the price at which this practice would exit the Medicaid market altogether and serve only private insurance patients.
 
@@ -32,10 +32,10 @@ This is our third and final homework assignment of the semester. It covers quest
 
  Hospital     | Bed Size | Discharges
  -------------| -------- | ---------
- A            | 300      | 9,000
- B            | 300      | 7,300
- C            | 300      | 3,400
- D            | 300      | 5,400
+ A            | 250      | 8,000
+ B            | 250      | 7,300
+ C            | 250      | 6,400
+ D            | 250      | 5,400
  
 <br>
 <b>Town B</b><br>
