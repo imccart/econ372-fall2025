@@ -36,16 +36,18 @@ If you're here, then you know where to find our class website. Well done! Hopefu
 
 
 ### Readings
-There are two optional textbooks for this class. One is an intermediate microeconomics textbook that will cover much of the basic economic theory, and another is a health economics textbook. These books are in now way required, but they may be helpful for some students as an additional resource.
+There are a few optional textbooks for this class. One is an intermediate microeconomics textbook that will cover much of the basic economic theory, another is an older health economics textbook that was pretty good at the time but is no longer updated, and the last is a newer book that is an easy read but not necessarily very formal. These books are in now way required, but they may be helpful for some students as an additional resource.
 
   - @pindyck2018
   - @sloan2012
+  - @friedson2023
   
-We will supplement these textbooks with other readings as well as online presentations, policy papers, and videos. I'm also writing a textbook specifically for this class (very much a work in progress at this point). A comprehensive list of materials and potential readings are available from the [schedule](/schedule/) page.
+We will supplement these textbooks with other readings as well as online presentations, policy papers, and videos. I'm also writing an online book specifically for this class (still very much a work in progress). A comprehensive list of materials and potential readings are available from the [schedule](/schedule/) page.
   
 
 ### Statistics software
 Each homework assignment will generally include both a theoretical and empirical section. Most of the empirical work involves basic summary statistics. This can be done in just about any spreadsheet or statistics package. I'll use `R` for my work, but you are free to use whatever software you're most comfortable with. I encourage you to use `R` or `Python` simply because these are the most common programs used in applied data analysis right now, but you can certainly use Excel or Google Sheets if you'd prefer. This is **not** a statistics or econometrics class, so I do not expect you to have any statistics programming knowledge. A few instructional videos are also available on **Canvas** to help with specific programming issues or Excel steps.
+
 
 ### Accessing data
 For all homework assignments, I will house all of the links to the data on our class website, and I'll place the relevant datasets in a shared OneDrive folder as needed. For transparency, I will also point you to other GitHub repositories where available. If you're new to Git or GitHub and want to understand some of that better, take a look at [Grant McDermott's](https://grantmcdermott.com/) notes on [Data Science for Economists](https://github.com/uo-ec607/lectures) as well as [Jenny Bryan's](https://jennybryan.org/) online reference book, [Happy Git and GitHub with R](https://happygitwithr.com/). But please note, knowledge of Git or GitHub is not expected or required for this class.
@@ -60,12 +62,12 @@ Various policies for this course are described below. Basically, let's all work 
 
 ### Class meetings
 
-All regular class meetings will take place in **White Hall, Room 110** on Mondays and Wednesdays from 8:30am (what!? I know right) to 9:45am. 
+All regular class meetings will take place in **White Hall, Room 103** on Tuesdays and Thursdays from 8:30am (what!? I know right) to 9:45am. 
 
 
 ### Office hours
 
-My designated office hours will be on Monday and Wednesday from 10:00am to 11:00am in the R. Randall Rollins Building, room 418. This is the 4th floor of the new Rollins School building. My office hours are in-person, as I want to encourage everyone to come visit face-to-face if at all possible. I'm also available outside of the 10-11am times, but those times are less predictable. In general, even if you're planning to visit during normal office hours, please schedule an appointment [here](https://mccarthy-meetings.youcanbook.me/). This just ensures that everyone has the proper time for a meeting.
+My designated office hours will be on Tuesdays and Thursdays from 10:00am to 11:00am in the R. Randall Rollins Building, Room 418. This is the 4th floor of the new Rollins School building. My office hours are in-person, as I want to encourage everyone to come visit face-to-face if at all possible. I'm also available outside of the 10-11am times, but those times are less predictable. In general, even if you're planning to visit during normal office hours, please schedule an appointment [here](https://mccarthy-meetings.youcanbook.me/). This just ensures that everyone has the proper time for a meeting.
 
 If you need to meet virtually, I've posted a virtual meeting link on our Canvas page. Please indicate the virtual meeting when you schedule online so that I know where we're meeting!
 
@@ -79,11 +81,11 @@ For any questions that you don't think need a meeting, you can always reach out 
 
 We have an excellent economics PhD student as our teaching assistant this year. They will be available to help with any questions you have about the material, assignments, or anything else. They will also be grading your assignments. Please be nice. They are here to help you.
 
-  - **Shirley Cai**: Office hours Thursdays, 3-4pm. Email, shirley.cai@emory.edu. Shirley will hold all of her office hours virtually, and a link to her zoom meeting room is available on Canvas.
+  - **Katerina Katsimpri**: Office hours TBD. Email, aikaterini.christina.katsimpri@emory.edu.
 
 ### Turning things in
 
-All homework assignments should be submitted as PDF files on Canvas via GradeScope. Since we'll be using some math in all of our answers, I encourage everyone to complete your homework assignments in [Overleaf](https://www.overleaf.com/). As an Emory student, everyone has access to an institutional Overleaf account, which provides you with all the nice features of the product. You can use this to easily write PDF documents in a language known as "LaTeX". For a brief introductory video and links to more info, please see the video [here](https://www.overleaf.com/learn/latex/Questions/Getting_started_with_LaTeX_and_Overleaf_(formerly_writeLaTeX)). Overleaf is not a requirement, but I think it will save some you time in the long run. You are also welcome to use Word, Google Docs, LibreOffice, etc., and convert to PDF for your final submission.
+All homework assignments should be submitted as PDF files on Canvas via GradeScope. Since we'll be using some math in all of our answers, you may consider (thought it's definitely not required) creating your homework answers in [Overleaf](https://www.overleaf.com/). As an Emory student, everyone has access to an institutional Overleaf account, which provides you with all the nice features of the product. You can use this to easily write PDF documents in a language known as "LaTeX". For a brief introductory video and links to more info, please see the video [here](https://www.overleaf.com/learn/latex/Questions/Getting_started_with_LaTeX_and_Overleaf_(formerly_writeLaTeX)). Again, Overleaf is not a requirement, but I think it could save you some time in the long run. You are also welcome to use Word, Google Docs, LibreOffice, etc., and convert to PDF for your final submission.
 
 The only **requirements** are that your submission is a PDF and that your answers are legible and organized. Please **DO NOT** write tiny answers in margins of papers, scan as PDF, and submit. We will not grade these types of submissions, and the assignment will be considered late until a legible submission is available. When you submit through GradeScope, you should be prompted to highlight which part of your PDF corresponds to each question. Please do this carefully. Misaligned submissions will be treated as late until they are properly aligned.
 
@@ -97,7 +99,7 @@ The Emory University Honor Code is taken seriously and governs all work in this 
 
 ### AI and Assignments
 
-In this course, students are encouraged to leverage the capabilities of ChatGPT and related AI software for academic exploration and assistance. However, it is essential to uphold the principles of academic integrity. While you are free to seek guidance from ChatGPT, Gemini, etc., the final submissions of all assignments and assessments must reflect your individual understanding and expression. Any instance of verbatim or substantially unaltered content from ChatGPT or other external sources (including your own classmates) will be considered plagiarism and subject to our policies on academic integrity (see above). The goal is to foster critical thinking and creativity while utilizing the tool responsibly. If you have any questions about the appropriate use of ChatGPT or related software, please ask me.
+In this course, students are encouraged to leverage the capabilities of ChatGPT and related AI software for academic exploration and assistance. However, it is essential to uphold the principles of academic integrity. While you are free to seek guidance from ChatGPT, Gemini, etc., the final submissions of all assignments and assessments must reflect your individual understanding and expression. Any instance of verbatim or substantially unaltered content from ChatGPT or other external sources (including your own classmates) will be considered plagiarism and subject to our policies on academic integrity (see above). The goal is to foster critical thinking and creativity while utilizing these new tools responsibly. If you have any questions about the appropriate use of ChatGPT or related software, please ask me.
 
 ### Accessibility services
 
@@ -105,7 +107,7 @@ If you anticipate issues related to the format or requirements of this course, p
 
 ### Class-wide announcements
 
-I will post regular announcements to the class on **Canvas**, so please set up your notifications accordingly. I will also use Canvas to post all grades and any other information that needs to stay in the class. All other course materials will be available on our class website, [econ372f24.classes.ianmccarthyecon.com](https://econ372f24.classes.ianmccarthyecon.com).
+I will post regular announcements to the class on **Canvas**, so please set up your notifications accordingly. I will also use Canvas to post all grades and any other information that needs to stay in the class. All other course materials will be available on our class website, [econ372f25.classes.ianmccarthyecon.com](https://econ372f25.classes.ianmccarthyecon.com).
 
 ### Lauren's Promise
 
