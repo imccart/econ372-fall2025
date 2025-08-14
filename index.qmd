@@ -52,9 +52,9 @@ drive_download("bibliography/BibTeX_Library.bib", overwrite=TRUE, path='files/bi
 
 ::: {.text-secondary .fs-4}
 
-Use the tools of microeconomic theory and basic data analysis to understand insurance markets, health care decision making, and hospital pricing
+Use the tools of microeconomic theory and basic data analysis to understand insurance markets, health care decision making, hospital pricing and competition, and pharmaceutical innovation
 
-Fall 2024<br>
+Fall 2025<br>
 Department of Economics<br>
 Emory University<br>
 **Follow us!** [{{< fa brands twitter >}}](https://twitter.com/emoryeconomics), [{{< fa brands linkedin >}}](https://www.linkedin.com/company/emory-university-department-of-economics), [{{< fa brands facebook >}}](https://www.facebook.com/EmoryEcon/), and [{{< fa brands instagram >}}](https://www.instagram.com/econemory/)
@@ -85,10 +85,10 @@ Emory University<br>
 
 ## Course Details
 
-{{< fa calendar-alt >}} 8-28-2024 to 12-9-2024<br>
-{{< fa calendar >}} Monday & Wednesday<br>
+{{< fa calendar-alt >}} 8-28-2025 to 12-9-2025<br>
+{{< fa calendar >}} Tuesday & Thursday<br>
 {{< fa clock >}} 8:30am to 9:45am<br>
-{{< fa university >}} White Hall 110
+{{< fa university >}} White Hall 103
 
 :::
 
