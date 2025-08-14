@@ -20,7 +20,7 @@ description-meta: "Course on the Economics of Health Care Markets at Emory Unive
 
 website:
   title: "Economics of Health Care Markets"
-  site-url: "https://econ372f24.classes.ianmccarthyecon.com/"
+  site-url: "https://econ372f25.classes.ianmccarthyecon.com/"
 
   twitter-card:
     image: "/files/social-image-f22.png"
@@ -32,7 +32,7 @@ website:
     image: "/files/social-image-f22.png"
     locale: en_US
 
-  repo-url: "https://github.com/imccart/econ372-fall2024"
+  repo-url: "https://github.com/imccart/econ372-fall2025"
 
   page-navigation: true
 
@@ -48,7 +48,7 @@ website:
       - text: "Resources"
         file: resources/index.qmd
       - icon: github
-        href: "https://github.com/imccart/econ372-fall2024"
+        href: "https://github.com/imccart/econ372-fall2025"
         aria-label: GitHub
 
   sidebar:
@@ -88,13 +88,13 @@ website:
 
   page-footer:
     left: |
-      Content {{< fa brands creative-commons >}} 2024 by Ian McCarthy<br>
+      Content {{< fa brands creative-commons >}} 2025 by Ian McCarthy<br>
       All content licensed under a {{< fa brands creative-commons >}}
       {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}}
       [Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
     right: |
       Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
-      [View the source at {{< fa brands github >}} GitHub](https://github.com/imccart/econ372-fall2024)
+      [View the source at {{< fa brands github >}} GitHub](https://github.com/imccart/econ372-fall2025)
 
 
 format:
