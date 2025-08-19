@@ -129,7 +129,7 @@ library(dplyr)
 library(tibble)
 assignments <- tibble(
   Assignment = c("Participation", "Homework (60 x 3)", "Mid-term exam", "Final project"),  
-  Points = c(10, 60*3, 60, 150)
+  Points = c(20, 60*3, 60, 140)
 )
 
 assignments <- assignments %>%

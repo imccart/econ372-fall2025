@@ -27,7 +27,7 @@ To help stay on track throughout the semester, we've divided the brief into five
 1. [Teams and Topics], due on **September 19** and worth **10 points** toward you final project grade
 2. [Annotated Bibliography], due on **October 3** and worth **10 points** toward your final project grade
 3. [Factsheet], due on **November 7** and worth **40 points** toward your final project grade
-4. [Final Policy Brief], due on **December 4** and worth **80 points** toward your final project grade
+4. [Final Policy Brief], due on **December 4** and worth **70 points** toward your final project grade
 5. [Internal Peer Review], due on **December 9** and worth **10 points** toward your final project grade
 
 # Teams and Topics
@@ -103,16 +103,16 @@ You must cite **all** of the sources from your annotated bibliography in your fa
 # Final Policy Brief
 For stage 4, you will craft a professional, concise, and informative advocacy oriented 2-page policy brief on your topic. Your policy brief should draw attention to an important public policy issue within the health and/or healthcare market space; “define” the policy problem with evidence and other relevant context; and provide research and evidence-based policy recommendations or actions that reflect the constraints of the real world. Please see the slides for additional discussion on the policy brief, including examples and other frequently asked questions, [here](https://imccart.github.io/econ372-content/policy-brief/policy-brief-faq.pptx).
 
-The 2-page policy brief is worth 80 points toward you final project grade, allocated as follows:
+The 2-page policy brief is worth 70 points toward you final project grade, allocated as follows:
 
 1. **Problem Definition and Introduction** (10 points). Your introduction of the policy issue to the audience must be catchy/memorable, informative, easy to follow, and convey a sense of urgency.
 
-2. **Main Content** (20 points). The bulk of the brief should elaborate on the policy problem: root causes, trends, the scope of the issue, or other relevant context. The specific content may vary depending on your selected topic, but some basic things to consider include:
+2. **Main Content** (15 points). The bulk of the brief should elaborate on the policy problem: root causes, trends, the scope of the issue, or other relevant context. The specific content may vary depending on your selected topic, but some basic things to consider include:
     - Relevant data, information, findings, and arguments should provide the reader with a concise, though nuanced overview of the policy issue.
     - The content should reflect insights from high quality source materials (including scholarly sources)
     - The writing should be clear and accurate. Cumulatively, the content should build into a persuasive narrative.
 
-3. **Solution Advocacy** (20 points). The brief should recommend policy solution(s) and/or action(s) that address the policy problem. These recommendations should be supported by your research and should reflect current reality, including a response to notable counterarguments, constraints, or barriers.
+3. **Solution Advocacy** (15 points). The brief should recommend policy solution(s) and/or action(s) that address the policy problem. These recommendations should be supported by your research and should reflect current reality, including a response to notable counterarguments, constraints, or barriers.
 
 4. **Structure & Professionalism** (10 points). The brief should be well organized and easy to navigate for non-subject-matter experts, with very few or no grammatical errors, spelling mistakes, missing words, etc.
 
