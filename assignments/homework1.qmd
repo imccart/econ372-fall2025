@@ -12,7 +12,7 @@ This is our first homework assignment of the semester. It covers questions relat
 1. Consider a risk-averse individual with probability $p$ of getting sick. Let $W_{s}$ be the person's wealth if they are to become sick, and $W_{h}$ the wealth if they stay healthy, where $W_{h}>W_{s}$. In this setup, the person's expected utility would then be:
 $$E\left[u(W)\right] = p u(W_{s}) + (1-p) u(W_{h}).$$
 
-    + Draw the consumer's utility curve under the assumption of diminishing marginal utility of wealth, with wealth on the x-axis and utility on the y-axis. Indicate the person's utility at $W_{h}$ and $W_{s}$. On this same graph, indicate the person's expected utility, with $p$ equal to the last digit of your Student ID plus 1 divided by 10. So if you're last digit is 0, then $p$=1/10. Write $p$ at the top of your answer to Q1. 
+    + Draw the consumer's utility curve under the assumption of diminishing marginal utility of wealth, with wealth on the x-axis and utility on the y-axis. Indicate the person's utility at $W_{h}$ and $W_{s}$. On this same graph, indicate the person's expected utility, with $p$ equal to the last digit of your Student ID plus 1 divided by 10. So if your last digit is 0, then $p$=1/10. Write $p$ at the top of your answer to Q1. 
     
     + Show on a new graph the highest possible amount that the person would be willing to pay in order to avoid the (financial) risk of illness.
     
@@ -27,7 +27,7 @@ $$E\left[u(W)\right] = p u(W_{s}) + (1-p) u(W_{h}).$$
     
     + Does this amount increase or decrease with $\alpha$? (show your work)
 
-    + How does the willingness to pay for health insurance compare to the actuarily fair premium? Explain in one sentence using the notion of risk aversion.
+    + How does the willingness to pay for health insurance compare to the actuarilly fair premium? Explain in one sentence using the notion of risk aversion.
 
 
 3. Based on the model of adverse selection covered in class, assume an insurer's cost function is given by $C=100q - 3q^{2}$, where $q$ denotes the number of people enrolled in the plan. Further assume that (inverse) demand is given by $p(q)=110-5q$. The total size of the population is $N=20$.
@@ -42,11 +42,11 @@ $$E\left[u(W)\right] = p u(W_{s}) + (1-p) u(W_{h}).$$
 
 ## Empirical questions
 
-4. New Jersey's Health Insurance market is sometimes used as an example of a "death spiral." Answer the following questions based on data from the [New Jersey Department of Banking and Insurance](http://www.state.nj.us/dobi/division_insurance/ihcseh/data_ihc.htm).
+4. New Jersey's health insurance market is sometimes used as an example of a "death spiral." Answer the following questions based on data from the [New Jersey Department of Banking and Insurance](http://www.state.nj.us/dobi/division_insurance/ihcseh/data_ihc.htm).
 
     + Provide a summary table of monthly premiums and enrollments from 2000 to 2008. Focus only on family premiums for three specific insurers/plans: 1) Horizon Blue Cross / Blue Shield of NJ, Plan D, \$1,000 deductible; 2) Aetna Life Insurance Company, Plan D, \$1,000 deductible; and 3) Celtic Insurance Company, Plan C, \$2,500 deductible. Also focus only on the "Individual Health Coverage" (IHC) Program, so no need to worry about the small employer premiums. Your final table should include the years as rows and the monthly premiums for each plan as the columns. Please include one additional column showing the total number of "standard" enrollments across all plans at year end.
     
-    + Please graph the premium for all three plans on a single graph. What do you see? 
+    + Please graph the premium for all three plans on a single graph. Briefly describe the trend (1-2 sentences). 
     
     + On a separate graph, show total enrollments over time. 
     
