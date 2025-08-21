@@ -14,9 +14,9 @@ $$E\left[u(W)\right] = p u(W_{s}) + (1-p) u(W_{h}).$$
 
     + Draw the consumer's utility curve under the assumption of diminishing marginal utility of wealth, with wealth on the x-axis and utility on the y-axis. Indicate the person's utility at $W_{h}$ and $W_{s}$. On this same graph, indicate the person's expected utility, with $p$ equal to the last digit of your Student ID plus 1 divided by 10. So if your last digit is 0, then $p=1/10$. Write $p$ at the top of your answer to Q1. 
     
-    + Show on a new graph the highest possible amount that the person would be willing to pay for health insurance.
+    + Show on a new graph the risk premium as well as the maximum amount that the person would be willing to pay for health insurance.
     
-    + Briefly explain how an increase in the probability of sickness, $p$, would impact the willingness to pay illustrated in part c.
+    + Briefly explain how an increase in the probability of sickness, $p$, would impact the risk premium and the willingness to pay illustrated in part c.
 
 
 2. Consider the utility function, $u(w)=w^\alpha$ for $\alpha \in (0,1)$. An individual starts with a wealth of \$40,000. With probability 0.5, this person will get sick and incur a cost of \$10,000.
