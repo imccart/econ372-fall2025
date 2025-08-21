@@ -1,10 +1,10 @@
 ---
 title: "Syllabus"
-#subtitle: "Fall 2024"
+# subtitle: "Fall 2025"
 page-layout: full
 format: html
-#format:
-#  pdf: default
+# format:
+#   pdf: default
 ---
   
 ## Course description
