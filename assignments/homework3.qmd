@@ -11,21 +11,23 @@ This is our third and final homework assignment of the semester. It covers quest
 ## Theory Questions
 1. Consider a for-profit practice facing the following demand and cost curves: $p=75-\frac{1}{2}q$ for private insurance patients and $c(q)=\frac{1}{4}q^{2}$.
 
-    + How many patients will this practice see and at what price?
+    + Find the profit-maximizing number of patients and price?
     
-    + Now assume that there is also a public market (e.g., Medicaid) where the price is set to $\bar{p}=\$40$ for each patient. Calculate the total number of patients that will be seen by this practice. How many of these patients are private insurance patients and how many are Medicaid patients?
+    + Now assume that there is also a public market (e.g., Medicaid) where the price is set to $\bar{p}=\$40$ for each patient. Calculate the total number of patients that will be seen by this practice, and report the split between private and public patients. Also report the private price for this provider.
     
-    + Medicaid is considering lowering their payments to $30 per visit. What is the new number of patients seen by this practice? How many of these patients are privately insured versus Medicaid?
+    + Medicaid is considering lowering their payments to $30 per visit. Repeat part (b) with this new public price.
     
     + Find the price at which this practice would exit the Medicaid market altogether and serve only private insurance patients.
 
+    + Suppose the practice has a binding capactiy constraint of $q_{max}=70$ (i.e., they can't see any more than 70 patients total). Resolve part (b) and discuss (in 2-3 sentences) how this capacity constraint changes the incidence of a cut from $\bar{p}=40$ to $\bar{p}=30$.
+
 2. Suppose Town A and Town B each have four hospitals. The tables below provide the bed size and output of each hospital. Use this information to answer the following questions:
 
-    + What is the Hirfindahl-Hirschman Index (HHI) for each town if we define market share as the share of total beds? 
+    + What is the Hirfindahl-Hirschman Index (HHI) for each town if we define market share as the share of total beds versus total discharges?
     
-    + What if we instead define market share as the share of total discharges? 
-    
-    + Which market (Town A or Town B) is more concentrated?
+    + Which market (Town A or Town B) is more concentrated under each definition? Do the rankings differ? Explain briefly.
+  
+    + Suppose Hospital C and D are proposing a merger in Town B. Recompute HHI using discharges under this hypothetical merger. By how much does HHI change? Would the merger trigger antitrust scrutiny under DOJ/FTC thresholds?
 
 
 <b>Town A</b><br>
@@ -56,32 +58,32 @@ This is our third and final homework assignment of the semester. It covers quest
 
     + Assume that, if the players fail to reach an agreement, they each receive utility of 0, so that $t_{1}=t_{2}=0$. Find the symmetric Nash bargaining solution to this game and explain how the solution depends on $\alpha$ and $\beta$.
     
-    + Assume that $\alpha$ and $\beta$ measure risk aversion among the players. What can you conclude about the outcome of bargaining in the case of one risk neutral and one risk averse agent?
+    + Assume that $\alpha$ and $\beta$ measure risk aversion among the players. What can you conclude about the outcome of bargaining in the case of one risk neutral (e.g., $\alpha=1$) and one risk averse agent (e.g., $\beta<1$) ?
     
-    + Assume instead that $\alpha=\beta$ and that player 2 now has some positive payoff, $a$, regardless of the value of $x$. In other words, $t_{2}=a$, while $t_{1}$ is still 0. What is the bargaining solution in this game?
+    + Assume instead that $\alpha=\beta$ and that player 2 now has some positive payoff, $a$, regardless of the value of $x$. In other words, $t_{2}=a$, while $t_{1}$ is still 0. What is the bargaining solution in this game? Briefly explain how it depends on the value of $a$.
     
-    + Interpret your answer in part (3) in terms of the size of the "outside option" (i.e., the value of $a$).
+    + Suppose player 1 is a hospital and player 2 is a private insurer. The "players" are bargaining over the division of a surplus normalized to size 1 (e.g., revenue from patients). Interpret $\alpha$, $\beta$, and $a$ in this context. Give one example of a real-life factor that might increase the hospital's outside option, and explain how it would affect the negotiated division.
 
 
 ## Empirical Questions
-4. Let's study how our assessment of hospital markets and competitiveness changes depending on our definition of a market. For these questions, we're going to work with the hospital data available on our *OneDrive* folder. I created this dataset from the Hospital Cost Report Information System (HCRIS) and the Hospital Service Area Files.
+4. Let's study how our assessment of hospital markets and competitiveness changes depending on our definition of a market. For these questions, we're going to work with the hospital data available on our *OneDrive* folder. I created this dataset from the Hospital Cost Report Information System (HCRIS) and the Hospital Service Area Files. In these data, markets are defined in 3 ways: zip code, HRR, and my own "market" calculation using something called a "community detection" algorithm. Throughout this homework, I'll define the market share of hospital $i$ in market $m$ at year $t$ as: $s_{imt} = \frac{q_{imt}}{\sum_{j} q_{jmt}}$, where $q$ denotes discharges.
 
-    + Calculate hospital market shares when defining the "market" by zip code and using hospital discharges as your measure of quantity. Provide a line graph of the average market shares over time.
+    + Calculate hospital market shares using zip code as your definition of a market. Then compute the HHI for each zip code and year. Finally, provide a graph of the average HHI over time ("average" meaning a simple unweighted average of HHIs across zip codes in a given year).
 
-    + Calculate hospital market shares when defining the "market" as the HRR, again using hospital discharges as your measure of quantity. Provide a line graph of the average market shares over time.
+    + Repeat part (a) using HRR as your measure of the market.
 
-    + Calculate hospital market shares when defining the market based on the community detection algorithms described [here](https://github.com/graveja0/health-care-markets). These "markets" are already provided for you in the data. Continue to use hospital discharges as your measure of quantity, and summarize your results with a line graph of the average market shares over time.
+    + Repeat part (a) using the pre-determined "markets" based on the community detection algorithm.
     
-    + Explain the differences in your results from parts (1)-(3).
+    + Explain the differences in your results from parts (a)-(c). How does your assessment of the concentration of hospital markets change depending on the geographic definition of the market?
 
-    + Plot the average market shares over time for each of the three market definitions you've considered on the same graph.  
+    + Recreate part (c) using the maximum market share, $s_{mt}^{max}=\max_{i} s_{imt}$, instead of HHI. In other words, computer $s_{mt}^{max}$, average those values across markets for each year, and plot the results. How does your assessment of the competitiveness of hospital markets change, if at all?
     
-5. Now let's think about hospital prices. To do this, we're going to summarize some pricing data and see how prices correlate with market structure. We'll use the same hospital data from question 4.
+5. Now let's think about hospital prices. To do this, we're going to summarize some pricing data and see how prices correlate with market structure. We'll use the same hospital data from question 4, focusing on the community detection measure of markets.
 
     + Calculate the average price for each year and show your results in a graph.
     
-    + Identify hospitals that are monopolists in their market (using the community detection measure of markets). Show in a graph the count of all such markets over time.
+    + Identify markets that are monopolies or duopoloies (i.e., exactly one or two hospitals in a market-year) and those that are "competitive" (which we can define as at least 4 hospitals in a market-year). Show in a graph the count of all such markets over time.
     
-    + Identify markets with more than 4 hospitals. Show in a graph the count of all such markets over time.
-    
-    + Calculate the average price in each year among the markets in part (2) and (3). Show your results in a table or a figure. How do these average prices compare?
+    + Calculate the average price in each year among the markets in part (b). Show your results in a table or a figure. How do these average prices compare?
+
+    + Repeat part (c) after first limiting to markets with between 10,000 and 50,000 total discharges per year. Briefly explain any differences in your results and why such a limit on market size (i.e., total discharges) might matter.
