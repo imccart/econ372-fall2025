@@ -1666,5 +1666,71 @@
     "title": "Syllabus",
     "section": "Assignments and grades",
     "text": "Assignments and grades\nDetailed descriptions of all assignments are on the assignments page. Each assignment will contribute to your final grade as described below.\n\n\n\n\n\n\n\n\n\nAssignment\nPoints\nPercent\n\n\n\n\nParticipation\n20\n5%\n\n\nHomework (60 x 3)\n180\n45%\n\n\nMid-term exam\n60\n15%\n\n\nFinal project\n140\n35%\n\n\n\n\nYour final percentage grade comes from your total points as a percent of all possible points available in the class (400). That percent then translates to a letter grade as follows:\n\n\n\n\n\n\n\n\n\n\nGrade\nRange\nGrade\nRange\n\n\n\n\nA\n93-100%\nC\n73-76%\n\n\nA-\n90-92%\nC-\n70-72%\n\n\nB+\n87-89%\nD+\n67-69%\n\n\nB\n83-86%\nD\n63-66%\n\n\nB-\n80-82%\nD-\n60-62%\n\n\nC+\n77-79%\nF\n&lt; 60%"
+  },
+  {
+    "objectID": "resources/current-policy1.html",
+    "href": "resources/current-policy1.html",
+    "title": "Policy: Enhanced Tax Credits",
+    "section": "",
+    "text": "The Affordable Care Act’s premium tax credit (APTC) lowers what Marketplace enrollees pay for the benchmark silver plan. The enhanced APTC schedule (0–8.5% of income; no 400%-FPL cliff) is in effect through 2025, originally passed in 2021 as part of the American Rescue Plan Act (ARPA); absent new law, the schedule reverts in 2026 to the pre-ARPA structure with eligibility generally capped at 400% FPL and higher applicable percentages at many incomes. This resource page briefly explains the tax credits and the root of the issue with regard to the expiration of the enhanced tax credits.",
+    "crumbs": [
+      "Resources",
+      "Policy: Enhanced Tax Credits"
+    ]
+  },
+  {
+    "objectID": "resources/current-policy1.html#side-by-side-visuals",
+    "href": "resources/current-policy1.html#side-by-side-visuals",
+    "title": "ACA Premium Tax Credits (APTC): Overview and Examples",
+    "section": "Side-by-side visuals",
+    "text": "Side-by-side visuals\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nAssumptions for figures: single adult; 2025 HHS poverty guideline for 1 person; benchmark SLCSP = $7,200/year. Graphics are illustrative; actual amounts vary by age rating and local SLCSP.",
+    "crumbs": [
+      "Resources",
+      "ACA Premium Tax Credits (APTC): Overview and Examples"
+    ]
+  },
+  {
+    "objectID": "resources/current-policy1.html#aptc-at-a-glance-concise",
+    "href": "resources/current-policy1.html#aptc-at-a-glance-concise",
+    "title": "ACA Premium Tax Credits (APTC): Overview and Examples",
+    "section": "APTC at a glance (concise)",
+    "text": "APTC at a glance (concise)\n\nStatute & formula. The credit is defined in 26 U.S.C. §36B. For the benchmark silver plan (SLCSP):\n$ ={0, -}$, where \\(\\text{required contribution}=\\text{income}\\times\\text{applicable \\%}\\).\n2025 (enhanced) schedule. Applicable percentages are 0–8.5% across the income range and no subsidy cliff above 400% FPL (enhancement in ARPA, extended by IRA and reflected in the IRS 2025 table).\n2026 reversion (if no new law). Returns to the pre-ARPA structure: eligibility generally ≤400% FPL and higher applicable percentages than 2025 at many incomes; the cliff above 400% FPL comes back.\nWho benefits most. Largest dollar gains for older enrollees and for people near/above 400% FPL in high-premium areas; many &lt;150% FPL see $0 benchmark premiums.\nWhat is not expiring. The underlying ACA PTC (without enhancements) and cost-sharing reductions (CSRs) remain in law; some states add reinsurance or extra subsidies via §1332 waivers. For live demos, see KFF’s calculator.",
+    "crumbs": [
+      "Resources",
+      "ACA Premium Tax Credits (APTC): Overview and Examples"
+    ]
+  },
+  {
+    "objectID": "resources/current-policy1.html#references-resources",
+    "href": "resources/current-policy1.html#references-resources",
+    "title": "Policy: Enhanced Tax Credits",
+    "section": "References & resources",
+    "text": "References & resources\n\nIRS Applicable Percentage Table (2025) and explanation of ARPA/IRA adjustments.\n\nIRS Applicable Percentage Table (2026) and indexing for reversion.\n\nHHS 2025 Poverty Guidelines (for context on FPL amounts).\n\nStatute and regulations: 26 U.S.C. §36B; 26 C.F.R. §1.36B-1 et seq.\n\nEvidence on who’s most affected & calculators (KFF, CRS, BPC).",
+    "crumbs": [
+      "Resources",
+      "Policy: Enhanced Tax Credits"
+    ]
+  },
+  {
+    "objectID": "resources/current-policy1.html#aca-marketplace-subsidies-a-quick-primer",
+    "href": "resources/current-policy1.html#aca-marketplace-subsidies-a-quick-primer",
+    "title": "Policy: Enhanced Tax Credits",
+    "section": "ACA Marketplace subsidies: a quick primer",
+    "text": "ACA Marketplace subsidies: a quick primer\nThe ACA provides two main forms of financial help on the individual Marketplace: premium tax credits (PTCs) that lower monthly premiums and cost-sharing reductions (CSRs) that lower deductibles, copays, and out-of-pocket maximums on silver plans for eligible enrollees. PTCs are authorized by 26 U.S.C. §36B and are available to people without an affordable offer of employer coverage who meet income and filing criteria.\n\nThe benchmark\nPTCs are keyed to the benchmark plan, defined as the second-lowest-cost Silver plan (SLCSP) available to the household in its rating area. You don’t have to enroll in the SLCSP; it’s just the reference price used to compute your credit (and is reported on Form 1095-A).\n\n\nHow the premium tax credit is calculated\nAt a high level, for each month the credit equals the difference between the SLCSP premium and your required contribution (a percentage of household income set annually by the IRS). Formally, the law defines the monthly “premium assistance amount” as the lesser of (i) the adjusted premium for the applicable SLCSP minus (ii) one-twelfth of the applicable-percentage × annual household income. The applicable-percentage table (the sliding scale) is published each year in IRS revenue procedures.\n\nSuppose annual income is $30,000 and the applicable percentage is 4%. Then the required contribution is $$30,000 = $1,200/year = \\(100/month\\).\nLet the benchmark (SLCSP) premium be $500/month. Monthly APTC \\(=\\) SLCSP − required contribution = \\(\\$500 − \\$100 = \\$400\\).\nNet premium for the benchmark = your required contribution = $100/month.\n\nYou can use the credit on other plans: - If a cheaper Silver plan costs $450, your net premium = $(450−400,,0)=\\(50/month**\\). - If a pricier Silver plan costs $550, your net premium = $550−400=\\(150/month**\\).\n\n\nEnhanced PTCs vs. baseline\nFor 2021–2025, Congress temporarily enhanced the PTC schedule (American Rescue Plan, extended by the Inflation Reduction Act): required contributions are lower at most incomes and the 400%-FPL “cliff” is removed. Absent new legislation, the system reverts in 2026 to the pre-ARPA structure with eligibility generally capped at 400% FPL and higher required-contribution percentages.\n\n\nCost-sharing reductions (CSRs)\nSeparate from PTCs, CSRs raise a silver plan’s actuarial value (typically to 94%, 87%, or 73% for eligible households up to 250% FPL), thereby reducing deductibles and other out-of-pocket charges. CSRs only apply if you enroll in a silver plan on the Marketplace.\n\n\nWhy tie credits to the SLCSP?\nBecause the credit is pegged to a local benchmark (the SLCSP), federal assistance automatically adjusts with market prices: when benchmark premiums rise, the credit grows, cushioning net premiums for subsidized enrollees. This design is central to how the ACA maintains affordability as underlying premiums change.",
+    "crumbs": [
+      "Resources",
+      "Policy: Enhanced Tax Credits"
+    ]
+  },
+  {
+    "objectID": "resources/current-policy1.html#effects-of-expiration",
+    "href": "resources/current-policy1.html#effects-of-expiration",
+    "title": "Policy: Enhanced Tax Credits",
+    "section": "Effects of Expiration",
+    "text": "Effects of Expiration\n\nAPTC at a glance\n\nStatute & formula. The credit is defined in 26 U.S.C. §36B. For the benchmark silver plan (SLCSP):\n\\(\\text{APTC}=\\max\\{0,\\ \\text{SLCSP}-\\text{required contribution}\\}\\), where \\(\\text{required contribution}=\\text{income}\\times\\text{applicable \\%}\\).\n2025 (enhanced) schedule. Applicable percentages are 0–8.5% across the income range and no subsidy cliff above 400% FPL (enhancement in ARPA, extended by IRA and reflected in the IRS 2025 table).\n2026 reversion (if no new law). Returns to the pre-ARPA structure: eligibility generally ≤400% FPL and higher applicable percentages than 2025 at many incomes; the cliff above 400% FPL comes back.\nWho benefits most. Largest dollar gains for older enrollees and for people near/above 400% FPL in high-premium areas; many &lt;150% FPL see $0 benchmark premiums.\nWhat is not expiring. The underlying ACA PTC (without enhancements) and cost-sharing reductions (CSRs) remain in law; some states add reinsurance or extra subsidies via §1332 waivers. For live demos, see KFF’s calculator.\n\n\n\nExample Graphs\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nAssumptions for figures: single adult; 2025 HHS poverty guideline for 1 person (400% FLP is about $62,000); benchmark SLCSP = $7,200/year. Graphics are illustrative; actual amounts vary by age rating and local SLCSP.\n\n\n\n\nBrief KFF Primer",
+    "crumbs": [
+      "Resources",
+      "Policy: Enhanced Tax Credits"
+    ]
   }
 ]

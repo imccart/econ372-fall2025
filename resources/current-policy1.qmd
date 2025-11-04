@@ -1,0 +1,84 @@
+---
+title: "Policy: Enhanced Tax Credits"
+---
+
+The Affordable Care Act’s premium tax credit (APTC) lowers what Marketplace enrollees pay for the benchmark silver plan. The **enhanced** APTC schedule (0–8.5% of income; no 400%-FPL cliff) is in effect through **2025**, originally passed in 2021 as part of the American Rescue Plan Act (ARPA); absent new law, the schedule **reverts in 2026** to the pre-ARPA structure with eligibility generally capped at 400% FPL and higher applicable percentages at many incomes. This resource page briefly explains the tax credits and the root of the issue with regard to the expiration of the enhanced tax credits.
+
+## ACA Marketplace subsidies: a quick primer
+
+The ACA provides two main forms of financial help on the individual Marketplace: **premium tax credits (PTCs)** that lower monthly premiums and **cost-sharing reductions (CSRs)** that lower deductibles, copays, and out-of-pocket maximums on **silver** plans for eligible enrollees. PTCs are authorized by 26 U.S.C. §36B and are available to people without an affordable offer of employer coverage who meet income and filing criteria.
+
+### The benchmark
+
+PTCs are keyed to the **benchmark plan**, defined as the **second-lowest-cost Silver plan (SLCSP)** available to the household in its rating area. You don’t have to enroll in the SLCSP; it’s just the reference price used to compute your credit (and is reported on Form 1095-A).
+
+### How the premium tax credit is calculated
+
+At a high level, for each month the credit equals the difference between the SLCSP premium and your **required contribution** (a percentage of household income set annually by the IRS). Formally, the law defines the monthly “premium assistance amount” as the **lesser of** (i) the adjusted premium for the applicable SLCSP **minus** (ii) one-twelfth of the applicable-percentage × annual household income. The **applicable-percentage table** (the sliding scale) is published each year in IRS revenue procedures.
+
+- Suppose annual income is **\$30,000** and the applicable percentage is **4\%**. Then the required contribution is $\$30,000 \times 0.04 = $1,200/year = $100/month$.
+
+- Let the **benchmark** (SLCSP) premium be **\$500/month**.  Monthly APTC $=$ SLCSP − required contribution = $\$500 − \$100 = \$400$.
+
+- **Net premium for the benchmark** = your required contribution = **$100/month**.
+
+You can use the credit on other plans:
+- If a cheaper Silver plan costs **$450**, your net premium = $\max(450−400,\,0)=**$50/month**$.
+- If a pricier Silver plan costs **$550**, your net premium = $550−400=**$150/month**$.
+
+### Enhanced PTCs vs. baseline
+
+For 2021–2025, Congress temporarily **enhanced** the PTC schedule (American Rescue Plan, extended by the Inflation Reduction Act): required contributions are lower at most incomes and the **400%-FPL “cliff” is removed**. Absent new legislation, the system reverts in 2026 to the pre-ARPA structure with eligibility generally capped at 400% FPL and higher required-contribution percentages.
+
+### Cost-sharing reductions (CSRs)
+
+Separate from PTCs, **CSRs** raise a silver plan’s actuarial value (typically to **94%, 87%, or 73%** for eligible households up to 250% FPL), thereby reducing deductibles and other out-of-pocket charges. CSRs only apply if you enroll in a **silver** plan on the Marketplace.
+
+### Why tie credits to the SLCSP?
+
+Because the credit is pegged to a local benchmark (the SLCSP), federal assistance **automatically adjusts** with market prices: when benchmark premiums rise, the credit grows, cushioning net premiums for subsidized enrollees. This design is central to how the ACA maintains affordability as underlying premiums change.
+
+
+## Effects of Expiration
+
+### APTC at a glance
+
+- **Statute & formula.** The credit is defined in 26 U.S.C. §36B. For the benchmark silver plan (SLCSP):  
+  $\text{APTC}=\max\{0,\ \text{SLCSP}-\text{required contribution}\}$, where $\text{required contribution}=\text{income}\times\text{applicable \%}$.
+
+- **2025 (enhanced) schedule.** Applicable percentages are **0–8.5%** across the income range and **no subsidy cliff above 400% FPL** (enhancement in ARPA, extended by IRA and reflected in the IRS 2025 table).
+
+- **2026 reversion (if no new law).** Returns to the pre-ARPA structure: eligibility generally **≤400% FPL** and higher applicable percentages than 2025 at many incomes; the **cliff above 400% FPL** comes back.
+
+- **Who benefits most.** Largest dollar gains for **older enrollees** and for people **near/above 400% FPL in high-premium areas**; many <150% FPL see \$0 benchmark premiums.
+
+- **What is not expiring.** The underlying ACA PTC (without enhancements) and **cost-sharing reductions (CSRs)** remain in law; some states add **reinsurance or extra subsidies** via §1332 waivers. For live demos, see KFF’s calculator.
+
+### Example Graphs
+
+::: {.columns}
+::: {.column width="50%"}
+![](../files/aca-percent-schedule.png){fig-alt="Percentage Schedule" width="100%"}
+:::
+::: {.column width="50%"}
+![](../files/aca-net-premium.png){fig-alt="Net Benchmark Premium" width="100%"}
+:::
+:::
+
+::: callout-note
+**Assumptions for figures:** single adult; **2025 HHS poverty guideline** for 1 person (400\% FLP is about \$62,000); benchmark SLCSP = \$7,200/year. Graphics are illustrative; actual amounts vary by age rating and local SLCSP.
+:::
+
+
+### Brief KFF Primer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HTV6_IFEfYo?si=JABETMoJb5NOk_kd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## References & resources
+
+- IRS Applicable Percentage Table (2025) and explanation of ARPA/IRA adjustments.  
+- IRS Applicable Percentage Table (2026) and indexing for reversion.  
+- HHS 2025 Poverty Guidelines (for context on FPL amounts).  
+- Statute and regulations: 26 U.S.C. §36B; 26 C.F.R. §1.36B-1 et seq.  
+- Evidence on who’s most affected & calculators (KFF, CRS, BPC).

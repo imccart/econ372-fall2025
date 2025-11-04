@@ -84,6 +84,7 @@ website:
         - resources/wksheet10.qmd
         - resources/wksheet11.qmd
         - resources/wksheet12.qmd
+        - resources/current-policy1.qmd
 
 
   page-footer:
